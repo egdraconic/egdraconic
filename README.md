@@ -3,7 +3,7 @@
 My name is Lucas Rogerio
 
 
-- I study to ![alura](https://www.alura.com.br)
+- I study to [alura](https://www.alura.com.br)
 - I am a person who is still starting in the programming area
 - I will use this site to promote my projects and organize them
 
