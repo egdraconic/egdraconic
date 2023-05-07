@@ -1,5 +1,7 @@
 ### welcome to my profile
 
-<!--
- _Im study for alura 
--->
+My name is Lucas Rogerio
+
+
+- I study to alura 
+- I am 
