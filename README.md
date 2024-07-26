@@ -9,7 +9,7 @@ My name is Lucas Rogerio
 
 
 ### If you want to give me any tips or advice about programming, whether basic or complex, I'll be with open arms contact 📫
-lucasrogeiro9898@gmail.com
+lucasrogeirocruz.m@gmail.com
 
 
 
